@@ -1,6 +1,8 @@
 # onboarding_screen
-<img src="https://user-images.githubusercontent.com/115135886/226122736-f14cb741-1cf8-4919-b767-6008c9c84827.png" width="300" height="300">
+<img src="https://user-images.githubusercontent.com/115135886/226123174-b72a0c75-272f-4a65-b525-804b700e90e9.png" width="300" height="300">
+<img src="https://user-images.githubusercontent.com/115135886/226123177-63d0d3a1-0f58-4c05-a6a7-2a7ad71b8d0e.png" width="300" height="300">
+<img src="https://user-images.githubusercontent.com/115135886/226123184-8808ec20-9658-4e3d-9610-51d7c81d969a.png" width="300" height="300">
 
 
-![Screenshot_1679159752](https://user-images.githubusercontent.com/115135886/226122738-77878df5-5f5d-4fc6-a593-5d35310aa92e.png)
-![Screenshot_1679159758](https://user-images.githubusercontent.com/115135886/226122739-a86eaf24-beeb-44ce-9711-9d0ebf42ecb5.png)
+
+
