@@ -1,4 +1,4 @@
- # onboarding_screen
+ # Onboarding Screen
 
 <div class="row">
   <div class="column">
