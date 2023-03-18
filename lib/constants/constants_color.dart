@@ -1,7 +1,15 @@
-import 'package:flutter/animation.dart';
+import 'package:flutter/widgets.dart';
 
-class Constants_Colors {
-  static Color White_color = const Color(0xffFFFFFF);
-  static Color Dark_color = const Color(0xFF19173D);
+class App_Colors {
+  static var app_white_color = Color(0xffFFFFFF);
+  static var app_black_color = Color(0xff000000);
+  static var app_green_color = Color(0xff50C878);
+ static var app_black_theme = Color(0xff000000);
+  static var app_white_theme = Color(0xffFFFFFF);
+  static var app_blue_theme = Color(0xff6AB9FE);
+  static var app_red_theme = Color(0xffFF0000);
+  
+
+
 
 }
